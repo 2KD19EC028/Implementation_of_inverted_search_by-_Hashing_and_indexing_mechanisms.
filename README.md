@@ -1,0 +1,1 @@
+# Implementation_of_inverted_search_by-_Hashing_and_indexing_mechanisms.
